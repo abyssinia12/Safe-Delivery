@@ -1,12 +1,42 @@
-# React + Vite
+# 🚚 Fast Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fast Delivery is a responsive website designed for delivery and logistics services, focusing on speed, clarity, and customer trust.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Modern landing page
+- Service highlights
+- Contact and order sections
+- Responsive design (mobile & desktop)
+- Clean UI/UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
+- `index.html` – Landing page
+- `css/` – Styling
+- `js/` – Interactions
+- `assets/` – Images and icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Purpose
+This project demonstrates:
+- Frontend design skills
+- Responsive layouts
+- Business-oriented web design
+
+
+
+## 📸 Screenshots
+<img width="1347" height="601" alt="image" src="https://github.com/user-attachments/assets/28dcdfcb-76aa-4a81-b4a0-17c4977c48bd" />
+<img width="1347" height="605" alt="image" src="https://github.com/user-attachments/assets/c47c85e5-266c-493f-82bf-8aa99f2f9612" />
+
+
+
+## 📌 Status
+Completed and open for enhancements.
+
+## 👨‍💻 Author
+**Abyssinia Solomon**  
+Web Developer
